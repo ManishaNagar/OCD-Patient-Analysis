@@ -153,34 +153,6 @@ OCD-Patient-Analysis/
 
 ---
 
-# ▶️ How to Run This Project
-
-## Step 1: Clone Repository
-
-```bash
-git clone https://github.com/your-username/OCD-Patient-Analysis.git
-```
-
-## Step 2: Navigate to Project Folder
-
-```bash
-cd OCD-Patient-Analysis
-```
-
-## Step 3: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Step 4: Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
 # 🎯 Learning Outcomes
 
 Through this project, I learned:
